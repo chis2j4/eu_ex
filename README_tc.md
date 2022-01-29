@@ -1,5 +1,9 @@
 [English](README.md) | [简体中文](README_sc.md) | 正體中文
 
+# 🚨⚠️ Warning: No longer maintained! ⚠️🚨
+
+**As of January 29th, 2022, eu_ex is no longer maintained, and no further changes will be made to it.**
+
 # eu_ex
 
 eu_ex 是 EUserv_extend 的簡寫。一個 Python 指令碼，可以幫你續期免費 EUserv IPv6 VPS。
@@ -78,8 +82,8 @@ eu_ex 是 EUserv_extend 的簡寫。一個 Python 指令碼，可以幫你續期
 
 - [x] ~~驗證 mailparser 解析的`receiver'欄位，以減少惡意郵件的干擾。~~ 由於 mailparser *Inbox Settings - Email Reception*，所以不做了。
 - [x] 日誌國際化和本地化。
-- [ ] 當驗證碼識別 API 失效時開放預訓練的模型，在本地，不呼叫第三方介面就解決驗證碼識別的問題。
-- [ ] 考慮 euserv 訪問超時重試，較低優先順序。
+- [ ] ~~當驗證碼識別 API 失效時開放預訓練的模型，在本地，不呼叫第三方介面就解決驗證碼識別的問題。~~
+- [ ] ~~考慮 euserv 訪問超時重試，較低優先順序。~~
 
 ## 鳴謝
 

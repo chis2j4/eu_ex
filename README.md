@@ -1,4 +1,9 @@
 English | [简体中文](README_sc.md) | [正體中文](README_tc.md)
+
+# 🚨⚠️ Warning: No longer maintained! ⚠️🚨
+
+**As of January 29th, 2022, eu_ex is no longer maintained, and no further changes will be made to it.**
+
 # eu_ex
 
 eu_ex means EUserv_extend. A Python script which can help you renew your free EUserv IPv6 VPS.
@@ -77,8 +82,8 @@ The effect is as shown,
 
 - [x] ~~Validate the `receiver` field parsed by mailparser to reduce malicious email interference.~~ Won't do due to mailparser *Inbox Settings - Email Reception*.
 - [x] Log internationalization and localization.
-- [ ] Open pre-trained models to solve the problem of CAPTCHA recognition locally when the CAPTCHA solver API is not working.
-- [ ] Consider euserv access timeout retry, lower priority
+- [ ] ~~Open pre-trained models to solve the problem of CAPTCHA recognition locally when the CAPTCHA solver API is not working.~~
+- [ ] ~~Consider euserv access timeout retry, lower priority.~~
 
 ## Acknowledgement
 

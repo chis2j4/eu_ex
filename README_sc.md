@@ -1,4 +1,9 @@
 [English](README.md) | 简体中文 | [正體中文](README_tc.md)
+
+# 🚨⚠️ Warning: No longer maintained! ⚠️🚨
+
+**As of January 29th, 2022, eu_ex is no longer maintained, and no further changes will be made to it.**
+
 # eu_ex
 
 eu_ex 是 EUserv_extend 的简写。一个 Python 脚本，可以帮你续期免费 EUserv IPv6 VPS。
@@ -77,8 +82,8 @@ eu_ex 是 EUserv_extend 的简写。一个 Python 脚本，可以帮你续期免
 
 - [x] ~~验证 mailparser 解析的`receiver'字段，以减少恶意邮件的干扰。~~ 由于 mailparser *Inbox Settings - Email Reception*，所以不做了。
 - [x] 日志国际化和本地化。
-- [ ] 当验证码识别 API 失效时开放预训练的模型，在本地，不调用第三方接口就解决验证码识别的问题。
-- [ ] 考虑 euserv 访问超时重试，较低优先级。
+- [ ] ~~当验证码识别 API 失效时开放预训练的模型，在本地，不调用第三方接口就解决验证码识别的问题。~~
+- [ ] ~~考虑 euserv 访问超时重试，较低优先级。~~
 
 ## 鸣谢
 
